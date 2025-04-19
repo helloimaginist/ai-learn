@@ -46,5 +46,5 @@ setup(
         'Environment :: Console',
     ],
     zip_safe=False,
-    install_requires=['numpy', 'pandas', 'sklearn', 'matplotlib', 'scipy', 'keras', 'bs4', 'requests'],
+    install_requires=['numpy', 'pandas', 'scikit-learn', 'matplotlib', 'scipy', 'keras', 'bs4', 'requests'],
 )
